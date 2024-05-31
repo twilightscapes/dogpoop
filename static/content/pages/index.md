@@ -1,7 +1,7 @@
 ---
 slug: /
-tagline:  Welcome to PIRATE, Matey!
-featuredImage: /assets/pirate-propaganda.webp
+tagline:  Welcome to Dog Poopers
+featuredImage: /assets/dogpoop-header.WEBP
 youtube:
   youtuber: 
   youtuber2: ""

@@ -666,7 +666,7 @@ style={{height:'auto', width:'100vw', maxHeight:'', position:'relative', zIndex:
           ) : (
             ""
           )}
-          <strong>Coming Soon</strong>
+          {/* <strong>Coming Soon</strong> */}
       </div>
       
   </article>
